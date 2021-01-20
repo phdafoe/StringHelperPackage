@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "5106e75e6a9befdf3a1518b0505d1f4b"
+build_time: [1611129274, 973016000]
+inputs:
+  "/Users/aocampoe/Documents/DEVELOP/APPS_PERSONALES/StringHelperPackage/Tests/StringHelperPackageTests/StringHelperPackageTests.swift": !dirty [1611129263, 962868012]
+  "/Users/aocampoe/Documents/DEVELOP/APPS_PERSONALES/StringHelperPackage/Tests/StringHelperPackageTests/XCTestManifests.swift": [1611128062, 139189970]

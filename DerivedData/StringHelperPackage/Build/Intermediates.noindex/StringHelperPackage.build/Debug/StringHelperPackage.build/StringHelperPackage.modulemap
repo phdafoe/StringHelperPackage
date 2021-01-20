@@ -1,0 +1,4 @@
+module StringHelperPackage {
+header "StringHelperPackage-Swift.h"
+export *
+}
